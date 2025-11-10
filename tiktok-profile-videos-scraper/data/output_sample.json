@@ -1,0 +1,27 @@
+{
+    "user_info": {
+        "id": "6812490744957256705",
+        "username": "vtvgiaitriofficial",
+        "nickname": "VTV Giai Tri Official",
+        "avatar": "https://p16-sign-sg.tiktokcdn.com/aweme/720x720/tos-alisg-avt-0068/e58bf19abf1c1badb25233ebb772283d.webp",
+        "bio": "Official TikTok profile of VTV Giai Tri"
+    },
+    "videos": [
+        {
+            "videoUrl": "https://www.tiktok.com/@vtvgiaitriofficial/video/7229167805625847041",
+            "description": "Cô chủ trọ cho thuê căn phòng hết nước chấm thật #Cuocdoivandepsao",
+            "music": {
+                "title": "original sound",
+                "author": "VTV Giai Tri Official",
+                "id": "7229168247013182210"
+            },
+            "stats": {
+                "likes": 25006,
+                "comments": 183,
+                "shares": 492,
+                "plays": 585709,
+                "hashtags": ["#Cuocdoivandepsao"]
+            }
+        }
+    ]
+}
