@@ -1,0 +1,5 @@
+{
+    "max_posts": 50,
+    "output_format": "json",
+    "base_url": "https://www.tiktok.com"
+}
